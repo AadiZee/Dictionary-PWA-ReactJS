@@ -1,7 +1,0 @@
-13 languages
-Pronunciation
-Definition
-Synonyms
-Dark Mode
-Light Mode
-Progressive Web APP (PWA) so it can be used on mobile
